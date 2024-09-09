@@ -1,4 +1,8 @@
-## olá, eu sou o Daniel, entusiasta do fullstack e web design 
+## Hi, I'm Daniel 👦
+- technology lover ❤️
+- Software engineering student 📚
+- Web design specialist 💎
+- my goal is to be a fullstack dev 💻
 
 <picture>
   <source
