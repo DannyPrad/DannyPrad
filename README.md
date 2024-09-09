@@ -1,4 +1,4 @@
-## Hi, I'm Daniel Prado👋👨‍💻🦈entusiasta do fullstack
+## olá, eu sou o Daniel, entusiasta do fullstack e web design 
 
 <picture>
   <source
@@ -15,15 +15,21 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DannyPrad&show_icons=true&theme=radical&layout=compact" />
  </div>
 
+### studying at the moment
+ <img align="center" alt="Danny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+ 
+### languages ​​I would love to work on
 <div style="display: inline_block"><br>
   <img align="center" alt="danny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="danny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="danny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="danny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="danny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  align="center" alt="Danny-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-</div>
+  </div>
+  
+### Specialist
+  <img  align="center" alt="Danny-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+
   
   ##
  
