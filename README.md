@@ -1,57 +1,22 @@
-## Hi, I'm Daniel 👦
-- technology lover ❤️
-- Software engineering student 📚
-- Web design specialist 💎
-- my goal is to be a fullstack dev 💻
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DannyPrad&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DannyPrad&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DannyPrad&show_icons=true" />
-</picture>
-
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DannyPrad&show_icons=true&theme=radical&layout=compact" />
- </div>
-
-### studying at the moment
- <img align="center" alt="Danny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
- 
-### languages ​​I would love to work on
-<div style="display: inline_block"><br>
-  <img align="center" alt="danny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="danny-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="danny-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="danny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="danny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-  
-### Specialist
-  <img  align="center" alt="Danny-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-
-  
-  ##
- 
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+Olá, eu sou o Daniel Prado! 👋
+Software Engineer | Python & Back-End Enthusiast
+Sou um desenvolvedor com foco em Python e back-end, apaixonado por criar soluções robustas e eficientes. Minha experiência inclui desde o desenvolvimento de APIs até a integração de sistemas, sempre buscando aprimorar minha lógica de programação e habilidades técnicas.
+![Daniel Prado's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyPrad&show_icons=true&theme=radical)
+![GitHub stars](https://img.shields.io/github/stars/DannyPrad/seu-repo?style=social)
 
 
-&nbsp;
-&nbsp;
+Minhas áreas de interesse e expertise:
+Python: Minha principal linguagem para desenvolvimento de back-end.
+JavaScript e TypeScript: Explorando e aprimorando minhas habilidades com React para desenvolvimento front-end.
+Figma: Entusiasta no aprendizado de design de interfaces para melhorar a experiência do usuário em minhas aplicações.
+React: Em constante aprendizado para expandir minhas capacidades em projetos full-stack.
+O que estou aprendendo e explorando:
+Atualmente, estou me dedicando a aprender Figma, JavaScript, TypeScript, e React, visando construir interfaces modernas e atraentes, além de consolidar meu conhecimento em desenvolvimento full-stack.
 
-## Contacts:
+Minhas Estatísticas no GitHub
 
-<div> 
-<a href="https://www.instagram.com/__danielprado_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:bussinesprado@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/daniel-prado-92b013302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
- 
+Linguagens mais utilizadas
+
+Atualizações de Contribuições
+
+
