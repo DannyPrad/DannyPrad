@@ -1,6 +1,6 @@
 Olá, eu sou o Daniel Prado! 👋
 
-Software Engineer jr | Python & Back-End Enthusiast
+Software Engineer| Back-End| Full-Stack Enthusiast
 
 Sou um desenvolvedor com foco em Python e back-end jr, apaixonado por criar soluções robustas e eficientes. Minha experiência inclui desde o desenvolvimento de APIs até a integração de sistemas, sempre buscando aprimorar minha lógica de programação e habilidades técnicas
 
